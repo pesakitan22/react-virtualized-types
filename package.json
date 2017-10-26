@@ -1,12 +1,12 @@
 {
-    "name": "@types/react-virtualized",
-    "version": "1.0.0",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/pesakitan22/react-virtualized-types.git"
-    },
-    "scripts": {
-    },
-    "main": "index.d.ts",
-    "license": "MIT"
-  }
+  "name": "@types/react-virtualized",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pesakitan22/react-virtualized-types.git"
+  },
+  "scripts": {
+  },
+  "main": "index.d.ts",
+  "license": "MIT"
+}
